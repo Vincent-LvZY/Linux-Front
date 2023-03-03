@@ -1,1 +1,1 @@
-# Linux-Front
+# Linux-Front zh-CN
